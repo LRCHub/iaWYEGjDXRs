@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "宝箱のジェットコースター",
+  "base_artist": "Petit Rabbit's",
+  "createdAt": "2025-12-16T19:24:32.847155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宝箱のジェットコースター",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/01_宝箱のジェットコースター_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宝箱のジェットコースター",
+      "artist": "Petit Rabbit’s",
+      "has_synced": true,
+      "path": "select/02_宝箱のジェットコースター_Petit_Rabbit’s.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "宝箱のジェットコースター",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/03_宝箱のジェットコースター_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "宝箱のジェットコースター",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/04_宝箱のジェットコースター_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "宝箱のジェットコースター",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/05_宝箱のジェットコースター_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "宝箱のジェットコースター",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/06_宝箱のジェットコースター_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宝箱のジェットコースター",
+      "artist": "Petit Rabbit's",
+      "has_synced": false,
+      "path": "select/pl_01_宝箱のジェットコースター_Petit_Rabbit's.txt"
+    }
+  ]
+}
